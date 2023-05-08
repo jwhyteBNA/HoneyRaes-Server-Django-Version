@@ -1,0 +1,35 @@
+{
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django",
+        "--django-settings-module=honeyrae.settings",
+    ],
+    "cSpell.words": [
+        "honeyrae"
+    ],
+    "cSpell.ignoreWords": [
+        "Ducharme",
+        "GMIJO",
+        "Gznx",
+        "Lemmon",
+        "Mmeao",
+        "Nilson",
+        "OTZF",
+        "Tanay",
+        "Ujhdds",
+        "Voluptas",
+        "Wckvj",
+        "Wyee",
+        "Zele",
+        "authtoken",
+        "corsheaders",
+        "expedita",
+        "gqqo",
+        "inprogress",
+        "maibjc",
+        "repairsapi",
+        "serviceticket",
+        "squb",
+        "viewsets",
+        "ypttd"
+    ],
+}

@@ -1,0 +1,101 @@
+[
+    {
+        "model": "repairsapi.serviceticket",
+        "pk": 1,
+        "fields": {
+            "customer": 3,
+            "employee": 1,
+            "description": "This is a description for a ticket from Customer 3, assigned to Employee 1",
+            "emergency": true,
+            "date_completed": null
+        }
+    },
+    {
+        "model": "repairsapi.serviceticket",
+        "pk": 2,
+        "fields": {
+            "customer": 1,
+            "employee": 2,
+            "description": "This is a description for a ticket from Customer 1, assigned to Employee 2",
+            "emergency": false,
+            "date_completed": "2022-01-19"
+        }
+    },
+    {
+        "model": "repairsapi.serviceticket",
+        "pk": 3,
+        "fields": {
+            "customer": 3,
+            "employee": 3,
+            "description": "This is a description for a ticket from Customer 3, assigned to Employee 3",
+            "emergency": false,
+            "date_completed": "2022-03-01"
+        }
+    },
+    {
+        "model": "repairsapi.serviceticket",
+        "pk": 4,
+        "fields": {
+            "customer": 2,
+            "employee": 3,
+            "description": "This is a description for a ticket from Customer 2, assigned to Employee 3",
+            "emergency": false,
+            "date_completed": null
+        }
+    },
+    {
+        "model": "repairsapi.serviceticket",
+        "pk": 5,
+        "fields": {
+            "customer": 1,
+            "employee": 2,
+            "description": "This is a description for a ticket from Customer 1, assigned to Employee 2",
+            "emergency": false,
+            "date_completed": null
+        }
+    },
+    {
+        "model": "repairsapi.serviceticket",
+        "pk": 6,
+        "fields": {
+            "customer": 2,
+            "employee": 2,
+            "description": "This is a description for a ticket from Customer 2, assigned to Employee 2",
+            "emergency": false,
+            "date_completed": "2022-03-19"
+        }
+    },
+    {
+        "model": "repairsapi.serviceticket",
+        "pk": 7,
+        "fields": {
+            "customer": 3,
+            "employee": 2,
+            "description": "This is a description for a ticket from Customer 3, assigned to Employee 2",
+            "emergency": true,
+            "date_completed": null
+        }
+    },
+    {
+        "model": "repairsapi.serviceticket",
+        "pk": 8,
+        "fields": {
+            "customer": 1,
+            "employee": 2,
+            "description": "This is a description for Customer 1, Employee 2",
+            "emergency": false,
+            "date_completed": "2022-02-02"
+        }
+    },
+    {
+        "model": "repairsapi.serviceticket",
+        "pk": 9,
+        "fields": {
+            "customer": 3,
+            "employee": null,
+            "description": "This is a description for Customer 3, help them fast!",
+            "emergency": false,
+            "date_completed": null
+        }
+    }
+]
